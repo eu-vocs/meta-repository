@@ -1,3 +1,7 @@
-The VoCS project aims to build a multidisciplinary community advancing research in voice communication sciences and to support transparent, reproducible research. This meta-repository brings together information about datasets associated with the project, including audio, image, video, behavioural-response, fMRI and other data. It lists datasets currently known to the project, including existing datasets and materials that have been released or made available. The repository consolidates information; it does not host or manage all the datasets, so questions about a particular dataset should be directed to the relevant doctoral candidate (DC). Where possible, the VoCS project supports making research data and materials openly available, helping others discover and reuse them.
+VoCS project meta-repository: 
 
 https://eu-vocs.github.io/meta-repository/
+
+The VoCS project aims to build a multidisciplinary community advancing research in voice communication sciences and to support transparent, reproducible research. This "living" meta-repository brings together information about datasets associated with the project, including audio, image, video, behavioural-response, fMRI and other data. It lists datasets currently known to the project, including existing datasets and materials that have been released or made available. The repository consolidates information; it does not host or manage all the datasets, so questions about a particular dataset should be directed to the relevant doctoral candidate (DC). Where possible, the VoCS project supports making research data and materials openly available, helping others discover and reuse them.
+
+
